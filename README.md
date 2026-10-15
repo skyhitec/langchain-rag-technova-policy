@@ -65,18 +65,10 @@ python assignment/23f1000204.py
 ```text
 .
 ├── README.md
-├── requirements.txt
-├── .gitignore
 ├── notebooks/
 │   ├── Day_1_LangChain_Workshop.ipynb
 │   └── Day_2_LangChain_Workshop.ipynb
-├── notes/
-│   ├── Lecture_1_LangChain_RAG_Notes.ipynb
-│   └── Day_1_LangChain_RAG_Visual_Notes_Hinglish.pdf
-└── assignment/
-    ├── 23f1000204.py
-    ├── 23f1000204_RAG_Assignment.ipynb
-    └── 23f1000204_Complete_Colab.ipynb
+│   └── Assignment_Introduction_to_LangChain_RAG
 ```
 
 ## Security and attribution
