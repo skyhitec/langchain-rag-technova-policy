@@ -63,12 +63,17 @@ python assignment/23f1000204.py
 ## Repository structure
 
 ```text
-.
+
+langchain-rag-technova-policy/
 ├── README.md
-├── notebooks/
-│   ├── Day_1_LangChain_Workshop.ipynb
-│   └── Day_2_LangChain_Workshop.ipynb
-│   └── Assignment_Introduction_to_LangChain_RAG
+├── Assignment_Introduction_to_Lan...
+├── Introduction_to_LangChain_Chain...
+├── Introduction_to_LangChain_Chain...
+├── RAG_file.pdf
+├── RAG_file.txt
+├── technova_policy.pdf
+└── technova_policy.txt
+
 ```
 
 ## Security and attribution
